@@ -1,0 +1,10 @@
+{
+  "name": "joshcheng · Emby图标库",
+  "description": "自用 Emby 服务器图标，透明 PNG。按名称 A-Z 排列。播放器（SenPlayer/EPlayerX 等）直接填本 JSON 地址即可。",
+  "icons": [
+    {
+      "name": "Emby",
+      "url": "https://raw.githubusercontent.com/joshcheng/emby-icons/refs/heads/master/icon/invisible/emby.png"
+    }
+  ]
+}
