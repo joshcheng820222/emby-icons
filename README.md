@@ -7,7 +7,7 @@
 在 SenPlayer / EPlayerX 的图标库设置里填：
 
 ```
-https://raw.githubusercontent.com/joshcheng/emby-icons/refs/heads/master/invisible.json
+https://raw.githubusercontent.com/joshcheng820222/emby-icons/refs/heads/master/invisible.json
 ```
 
 ## 结构
