@@ -1,7 +1,19 @@
 {
   "name": "joshcheng · Emby图标库",
-  "description": "自用 Emby 服务器图标，透明 PNG + 透明风海报裁切。按名称 A-Z 排列。播放器（SenPlayer/EPlayerX 等）直接填本 JSON 地址即可。",
+  "description": "自用 Emby 服务器图标，透明 PNG + 海报裁切。按名称 A-Z 排列，变体名加编号。播放器（SenPlayer/EPlayerX 等）直接填本 JSON 地址即可。",
   "icons": [
+    {
+      "name": "115网盘",
+      "url": "https://raw.githubusercontent.com/joshcheng820222/emby-icons/refs/heads/master/icon/invisible/115pan1.png"
+    },
+    {
+      "name": "115网盘1",
+      "url": "https://raw.githubusercontent.com/joshcheng820222/emby-icons/refs/heads/master/icon/invisible/115pan2.png"
+    },
+    {
+      "name": "123网盘",
+      "url": "https://raw.githubusercontent.com/joshcheng820222/emby-icons/refs/heads/master/icon/invisible/123pan.png"
+    },
     {
       "name": "Emby",
       "url": "https://raw.githubusercontent.com/joshcheng820222/emby-icons/refs/heads/master/icon/invisible/emby.png"
@@ -9,6 +21,10 @@
     {
       "name": "EmbyPulse",
       "url": "https://raw.githubusercontent.com/joshcheng820222/emby-icons/refs/heads/master/icon/invisible/embypulse.png"
+    },
+    {
+      "name": "MoviePilot",
+      "url": "https://raw.githubusercontent.com/joshcheng820222/emby-icons/refs/heads/master/icon/invisible/moviepilot.png"
     },
     {
       "name": "SyMedia",
@@ -21,6 +37,22 @@
     {
       "name": "VPS卒業勢",
       "url": "https://raw.githubusercontent.com/joshcheng820222/emby-icons/refs/heads/master/icon/invisible/vps-badge.png"
+    },
+    {
+      "name": "光鸭网盘",
+      "url": "https://raw.githubusercontent.com/joshcheng820222/emby-icons/refs/heads/master/icon/invisible/guangya.png"
+    },
+    {
+      "name": "卒業さんの音楽部屋",
+      "url": "https://raw.githubusercontent.com/joshcheng820222/emby-icons/refs/heads/master/icon/invisible/ongakubeya.png"
+    },
+    {
+      "name": "卒業さんの映画部屋",
+      "url": "https://raw.githubusercontent.com/joshcheng820222/emby-icons/refs/heads/master/icon/invisible/yingfang-badge1.png"
+    },
+    {
+      "name": "卒業さんの映画部屋1",
+      "url": "https://raw.githubusercontent.com/joshcheng820222/emby-icons/refs/heads/master/icon/invisible/yingfang-badge2.png"
     },
     {
       "name": "癫影115",
